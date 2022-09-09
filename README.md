@@ -1,4 +1,4 @@
-# WeatherManDiscordBot
+# DiscordWeatherBot
 The Weather Man Bot can tell you all the important weather details for any city, plus clothing advice based on the weather!
 
 Installation process:
