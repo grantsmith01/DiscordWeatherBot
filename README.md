@@ -1,5 +1,5 @@
 # WeatherManDiscordBot
-The Weather Man Bot can tell you all the important weather details for any city, plus clothing advice!
+The Weather Man Bot can tell you all the important weather details for any city, plus clothing advice based on the weather!
 
 Installation process:
   Tip: For quick and easy results, use replit.com to implement the bot.
