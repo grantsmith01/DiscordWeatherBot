@@ -5,7 +5,7 @@ import requests
 import json
 from weather import *
 
-#open token. not advised for anyone looking at this code, always hide your tokens. this is just for demonstration purposes only
+#open token. not advised for anyone looking at this code, always hide your tokens. for demonstration purposes only
 TOKEN = 'OTYyNDQ3Mjk2ODk1Nz.gyOTUz.YlHq5A.WKSXqgvD8EleBWWjwTwsiuJsLjw'
 commandPrefix = 'weather.'
 api_key = 'f340f2c8385af9d298d7e473ad48d43f'
